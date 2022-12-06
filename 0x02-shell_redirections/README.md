@@ -1,1 +1,1 @@
-we move
+hello word script
